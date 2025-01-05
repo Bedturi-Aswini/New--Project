@@ -3,3 +3,5 @@
 <div align="center">
   <img alt="Routine Tracker logo" src="images/app_logo.svg" height="150px">
 </div>
+
+<br />
