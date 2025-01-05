@@ -5,3 +5,7 @@
 </div>
 
 <br />
+<div align="center">
+  
+[<img src="images/banners/banner_github.png"
+      alt="Get it on GitHub"
